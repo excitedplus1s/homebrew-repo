@@ -9,4 +9,6 @@ class Jtool2 < Formula
   homepage "http://newosxbook.com/tools/jtool.html"
 
   binary "jtool2"
+  def install
+  end
 end

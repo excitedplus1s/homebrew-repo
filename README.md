@@ -1,1 +1,1 @@
-# homebrew-jtool2_arm64
+# homebrew-jtool2

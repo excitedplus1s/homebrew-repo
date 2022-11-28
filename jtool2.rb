@@ -8,7 +8,7 @@ class Jtool2 < Formula
   desc "Tool to help out reverse engineering, security researchers, and tweak developers"
   homepage "http://newosxbook.com/tools/jtool.html"
 
-  binary "jtool2"
   def install
+    bin.install jtool2
   end
 end

@@ -1,4 +1,4 @@
-cask "jtool2" do
+class Jtool2 < Formula
   # NOTE: "2" is not a version number, but an intrinsic part of the product name
   version "2020.02.10"
   sha256 :no_check

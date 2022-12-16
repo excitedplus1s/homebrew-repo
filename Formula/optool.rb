@@ -1,10 +1,12 @@
 class Optool < Formula
   desc "Command-Line tool for interacting with MachO binaries on macOS/iOS"
   homepage "https://github.com/alexzielenski/optool"
+  version "0.1"
+  sha256 :no_check
   # pull from git tag to get submodules
   url "https://github.com/alexzielenski/optool.git"
   license "BSD-2-Clause"
-  # head "https://github.com/alexzielenski/optool.git"
+  head "https://github.com/alexzielenski/optool.git"
 
   depends_on xcode: :build
 

@@ -1,7 +1,7 @@
 class Optool < Formula
   desc "Command-Line tool for interacting with MachO binaries on macOS/iOS"
   homepage "https://github.com/alexzielenski/optool"
-  version "0.1"
+  version "0.1beta"
   sha256 :no_check
   # pull from git tag to get submodules
   url "https://github.com/alexzielenski/optool.git"

@@ -6,7 +6,6 @@ class Optool < Formula
   # pull from git tag to get submodules
   url "https://github.com/alexzielenski/optool.git"
   license "BSD-2-Clause"
-  head "https://github.com/alexzielenski/optool.git"
 
   depends_on xcode: :build
 
